@@ -10,10 +10,10 @@ export const weddingData = {
   },
 
   wedding: {
-    date: "2027-11-28",
-    displayDate: "28 . 11 . 2027",
-    ceremony: "12:20, Chủ nhật (29/11/2027)",
-    reception: "16:30, Thứ Bảy (28/11/2027)",
+    date: "2026-11-28",
+    displayDate: "28 . 11 . 2026",
+    ceremony: "12:20, Chủ nhật (29/11/2026)",
+    reception: "16:30, Thứ Bảy (28/11/2026)",
   },
 
   families: {
