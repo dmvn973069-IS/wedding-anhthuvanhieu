@@ -476,6 +476,7 @@ export default function WeddingInvitation() {
                   {
                     icon: "⌖",
                     title: "Địa điểm",
+                    value: wedding.families.bride.address,
                     link: "https://www.google.com/maps/search/?api=1&query=20.501129150390625,106.07402801513672&gidzl=N2PgSSssfbbMC69opQgkNLWsQdNK-FeA4pHkBuFu-L10P3rqswx-2nnbEII7-wuEGs1iSpcYgFKSohwcMW",
                   },
                 ].map((item) => (
